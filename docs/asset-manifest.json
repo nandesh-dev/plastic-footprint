@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plastic-footprint/static/css/main.9961197a.css",
+    "main.js": "/plastic-footprint/static/js/main.e345bcb4.js",
+    "index.html": "/plastic-footprint/index.html",
+    "main.9961197a.css.map": "/plastic-footprint/static/css/main.9961197a.css.map",
+    "main.e345bcb4.js.map": "/plastic-footprint/static/js/main.e345bcb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9961197a.css",
+    "static/js/main.e345bcb4.js"
+  ]
+}
