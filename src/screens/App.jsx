@@ -51,7 +51,7 @@ export function App(){
             style={{backgroundColor: color2, backgroundImage: `linear-gradient(${color1},${color2} 25%, #FFFFFF 40%)`}}
         >
             <div className="flex flex-col items-center justify-center gap-4 h-[40%]">
-                <p className="text-white text-3xl">Your Score</p>
+                <p className="text-white text-2xl">Your Plastic Footprint</p>
                 <div>
                     <span className="text-4xl opacity-0">%</span>
                     <span className="text-white font-semibold text-6xl">{score}</span>

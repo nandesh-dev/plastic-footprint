@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/plastic-footprint/static/css/main.28b6515b.css",
-    "main.js": "/plastic-footprint/static/js/main.c49b35d2.js",
+    "main.css": "/plastic-footprint/static/css/main.e0757372.css",
+    "main.js": "/plastic-footprint/static/js/main.1492d44b.js",
     "index.html": "/plastic-footprint/index.html",
-    "main.28b6515b.css.map": "/plastic-footprint/static/css/main.28b6515b.css.map",
-    "main.c49b35d2.js.map": "/plastic-footprint/static/js/main.c49b35d2.js.map"
+    "main.e0757372.css.map": "/plastic-footprint/static/css/main.e0757372.css.map",
+    "main.1492d44b.js.map": "/plastic-footprint/static/js/main.1492d44b.js.map"
   },
   "entrypoints": [
-    "static/css/main.28b6515b.css",
-    "static/js/main.c49b35d2.js"
+    "static/css/main.e0757372.css",
+    "static/js/main.1492d44b.js"
   ]
 }
